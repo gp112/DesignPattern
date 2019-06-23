@@ -6,7 +6,7 @@ namespace SimpleFactoryPattern
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World趣味无穷!");
         }
     }
 }
